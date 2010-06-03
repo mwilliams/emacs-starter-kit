@@ -1,3 +1,6 @@
+;; Fix for dark color scheme
+(setq frame-background-mode 0)
+
 ;; Textmate shortcuts
 (textmate-mode)
 
